@@ -5,13 +5,13 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Rockwell', 'Helvetica Neue', Arial, sans-serif;
 }
 
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #F05F40;
+  border-color: #7d212b;
 }
 
 hr.light {
@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-  color: #f05f40;
+  color: #c8102e;
 }
 
 h1,
@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Rockwell', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .bg-primary {
@@ -87,7 +87,7 @@ img::-moz-selection {
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Rockwell', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -96,7 +96,7 @@ img::-moz-selection {
   font-weight: 700;
   text-transform: uppercase;
   color: #F05F40;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Rockwell', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -118,7 +118,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #F05F40 !important;
+  color: #c8102e !important;
   background-color: transparent;
 }
 
@@ -188,7 +188,7 @@ header.masthead h1 {
 
 header.masthead p {
   font-weight: 300;
-  background-color: rgba(106,106,100,0.7);
+  background-color: rgba(116,118,97,0.7);
   border-radius: 20px;
 }
 
@@ -301,7 +301,7 @@ header.masthead p {
 
 .btn-primary {
   background-color: #a6192e;
-  border-color: #f7f7f7;
+  border-color: #c8102e;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
