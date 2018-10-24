@@ -169,6 +169,10 @@ img::-moz-selection {
   }
 }
 
+.darken {
+  background: black;
+  }
+
 header.masthead {
   background: black;
   padding-top: 10rem;
