@@ -87,6 +87,7 @@ img::-moz-selection {
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
+  text-shadow: 2px 2px #131317;
   font-family: 'Rockwell', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
@@ -196,7 +197,7 @@ header.masthead h1 {
 header.masthead p {
   color: #a6192e
   font-weight: 300;
-  background-color: rgba(166,25,46,0.7);
+  background-color: rgba(166,25,46,0.85);
   border-radius: 20px;
 }
 
