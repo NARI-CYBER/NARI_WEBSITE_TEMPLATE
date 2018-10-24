@@ -127,11 +127,6 @@ img::-moz-selection {
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
   background-color: transparent;
-  text-shadow:
-   -1px -1px 0 #000,
-   1px -1px 0 #000,
-   -1px 1px 0 #000,
-   3px 3px 0 #000;
 }
 
 @media (min-width: 992px) {
@@ -140,11 +135,6 @@ img::-moz-selection {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    text-shadow:
-   -1px -1px 0 #000,
-   1px -1px 0 #000,
-   -1px 1px 0 #000,
-   3px 3px 0 #000;
     color: rgba(255, 255, 255, 0.7);
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -156,6 +146,11 @@ img::-moz-selection {
   #mainNav .navbar-nav > li.nav-item > a.nav-link,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
     color: rgba(255, 255, 255, 0.7);
+    text-shadow:
+   -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   3px 3px 0 #000;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
