@@ -121,6 +121,11 @@ img::-moz-selection {
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
   color: #c8102e !important;
+  text-shadow:
+   -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   3px 3px 0 #000;
   background-color: transparent;
 }
 
