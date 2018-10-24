@@ -207,10 +207,11 @@ header.masthead h1 {
 }
 
 header.masthead p {
-  color: #a6192e
+  color: #a6192e;
   font-weight: 300;
-  background-color: rgba(166,25,46,0.85);
-  border-radius: 20px;
+  letter-spacing: 2px;
+/*  background-color: rgba(166,25,46,0.85);
+  border-radius: 20px;*/
 }
 
 @media (min-width: 768px) {
