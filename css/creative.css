@@ -124,7 +124,7 @@ img::-moz-selection {
    -1px -1px 0 #000,
    1px -1px 0 #000,
    -1px 1px 0 #000,
-   3px 3px 0 #000;
+   3px 3px 0 #000 !important;
   background-color: transparent;
 }
 
@@ -135,7 +135,7 @@ img::-moz-selection {
    -1px -1px 0 #000,
    1px -1px 0 #000,
    -1px 1px 0 #000,
-   3px 3px 0 #000;
+   3px 3px 0 #000 !important;
 }
 
 @media (min-width: 992px) {
@@ -144,6 +144,11 @@ img::-moz-selection {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
+    text-shadow:
+   -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   3px 3px 0 #000;
     color: rgba(255, 255, 255, 0.7);
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
