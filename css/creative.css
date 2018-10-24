@@ -110,6 +110,7 @@ img::-moz-selection {
   font-weight: 700;
   text-transform: uppercase;
   color: #212529;
+  text-shadow: none;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
