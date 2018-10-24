@@ -207,10 +207,10 @@ header.masthead h1 {
 }
 
 header.masthead p {
-/*  color: #53565A;
-  font-weight: 300;*/
+  color: #ffffff !important;
+  font-weight: 300;
   letter-spacing: 1px;
-  background-color: rgba(166,25,46,0.85);
+  background-color: rgba(18,18,23,0.95);
   border-radius: 20px;
 }
 
