@@ -189,6 +189,7 @@ header.masthead hr {
 }
 
 header.masthead h1 {
+  text-shadow: 2px 2px #131317;
   font-size: 2rem;
 }
 
