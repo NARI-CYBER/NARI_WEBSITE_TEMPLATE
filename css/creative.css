@@ -56,8 +56,8 @@ section {
 .section-blog{
 	background-image: url("../img/blog.jpg");
 	background-size: 100%;
-	padding-top: 3rem;
-	padding-bottom: 3rem;
+	padding-top: 6rem;
+	padding-bottom: 6rem;
 }
 
 .section-training {
