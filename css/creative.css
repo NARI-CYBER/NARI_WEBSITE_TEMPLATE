@@ -50,7 +50,7 @@ h6 {
 }
 
 section {
-  padding: 8rem 0;
+  padding: 2rem 0;
 }
 
 .section-heading {
@@ -224,8 +224,8 @@ header.masthead p {
 
 @media (min-width: 992px) {
   header.masthead {
-    height: 100vh;
-    min-height: 650px;
+    height: 50vh;
+    min-height: 500px;
     padding-top: 0;
     padding-bottom: 0;
   }
