@@ -55,6 +55,8 @@ section {
 
 .section-training {
 	background-image: url("../img/training.jpg");
+	padding-top: 3rem;
+	padding-bottom: 3rem;
 	background-size: 100%;
 }
 .section-heading {
@@ -209,6 +211,7 @@ header.masthead h1 {
   font-size: 2rem;
   font-family: "Baron Neue";
   letter-spacing: 3px;
+  padding-top: 2.5rem;
 }
 
 header.masthead p {
