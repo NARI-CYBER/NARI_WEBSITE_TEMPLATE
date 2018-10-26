@@ -58,11 +58,13 @@ section {
 	background-size: 100%;
 	padding-top: 6rem;
 	padding-bottom: 6rem;
+	background-repeat: no-repeat;
 }
 
 .section-interested{
 	background-image: url("../img/pi.jpg");
 	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 .section-training {
@@ -70,6 +72,7 @@ section {
 	padding-top: 6rem;
 	padding-bottom: 6rem;
 	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 .section-heading {
