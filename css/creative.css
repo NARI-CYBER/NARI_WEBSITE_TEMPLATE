@@ -53,6 +53,9 @@ section {
   padding: 2rem 0;
 }
 
+section.training {
+	background-image: url("img/training.jpg");
+}
 .section-heading {
   margin-top: 0;
 }
