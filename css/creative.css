@@ -37,6 +37,11 @@ h6 {
   font-family: 'Rockwell', 'Helvetica Neue', Arial, sans-serif;
 }
 
+.safeguard{
+	color: #ffffff;
+	padding-top: 1rem;
+}
+
 .bg-primary {
   background-color: #a6192e !important;
 }
@@ -75,6 +80,10 @@ section {
 	background-repeat: no-repeat;
 }
 
+.icons-white{
+	color: "white";
+	fill: currentColor;
+}
 .section-heading {
   margin-top: 0;
 }
