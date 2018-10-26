@@ -60,6 +60,11 @@ section {
 	padding-bottom: 6rem;
 }
 
+.section-interested{
+	background-image: url("../img/pi.jpg");
+	background-size: 100%;
+}
+
 .section-training {
 	background-image: url("../img/training.jpg");
 	padding-top: 6rem;
