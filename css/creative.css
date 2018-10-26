@@ -53,12 +53,20 @@ section {
   padding: 2.5rem 0;
 }
 
+.section-blog{
+	background-image: url("../img/blog.jpg");
+	background-size: 100%;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
 .section-training {
 	background-image: url("../img/training.jpg");
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 	background-size: 100%;
 }
+
 .section-heading {
   margin-top: 0;
 }
